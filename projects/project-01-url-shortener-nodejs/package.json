@@ -4,6 +4,7 @@
   "description": "## 🧠 System Design Overview - Simple service to shorten long URLs - Redirect users to original URL when short link is accessed - Focus on scalability & low latency",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
